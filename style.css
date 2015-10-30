@@ -1,9 +1,40 @@
 body {
-  font-family: 'helvetica neue', arial, sans-serif;
+  font-family: 'cambria', arial, sans-serif;
   font-weight: 300;
-  background: url(linedpaper.png) repeat;
 }
 #wrapper {
   width: 960px;
   margin: 20px auto;
+}
+h4 {
+	font-size: 30px;
+}
+h2,h3,h4 {
+
+	#summary {
+		color: red;
+	}
+	.unicorn {
+		color: purple;
+	}
+}
+h2 {
+	padding-top: 100px;
+}
+h3 {
+	padding-top: 0px;
+}
+img {
+}
+
+#profilepic {
+	width: 200px;
+	border: 3px solid black;
+	margin: 0px 40px 0px 0px;
+}
+img {
+    float:right;
+}
+h1 {
+    float:left;
 }
